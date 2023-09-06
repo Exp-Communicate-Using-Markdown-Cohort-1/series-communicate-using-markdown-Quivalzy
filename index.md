@@ -12,6 +12,6 @@ print('Hello World!')
 ```
 
 To-Do Next Day:
-- [] Learn Machine Learning
-- [] Build Portfolio
-- [] Build my resume
+- [ ] Learn Machine Learning
+- [ ] Build Portfolio
+- [ ] Build my resume
