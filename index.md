@@ -10,3 +10,8 @@ Below, I demonstrate how to display hello world in Python
 ```
 print('Hello World!')
 ```
+
+To-Do Next Day:
+- [] Learn Machine Learning
+- [] Build Portfolio
+- [] Build my resume
